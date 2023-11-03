@@ -38,7 +38,7 @@
 
 <!-- About Section -->
  # About me
- Majoring in Infomation & Communication Engr. at GWNU
+ Majoring in Infomation & Communication Engr.
  
 <p>
  
