@@ -49,7 +49,7 @@
 <br/>
 <br/>
 
-## Use To Code $ Library
+## Use To Code & Library, IDEs
 
 ![C](https://img.shields.io/badge/C-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc)
 ![C++QT](https://img.shields.io/badge/C++QT-6EA94B?style=for-the-badge&labelColor=black&logo=qt&logoColor=6EA94B)
