@@ -10,31 +10,6 @@
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=h4xryu"></a>
-    <br>
-     I am an embedded developer from <b>South Korea</b> 
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
- <a href="https://alsiam.com" target="blank">
-  
- </a>
-
-  
- </a>
- <a href="https://instagram.com/xviolet_willow" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="h4xryu" />
- </a> 
- <a href="https://www.facebook.com/profile.php?id=100005007934598" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="h4xryu"  />
-  </a> 
-</p>
-<br />
 
 <!-- About Section -->
  # About me
