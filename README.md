@@ -69,11 +69,8 @@
 ## Top Open Source
 [![Dataset-for-12-lead-ECG-Paper-detection](https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=Dataset-for-12-lead-ECG-Paper-detection&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/h4xryu/Dataset-for-12-lead-ECG-Paper-detection)
 [![SignalPlot](https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=SignalPlot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/h4xryu/SignalPlot)
-[![FaceDetection](https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=FaceDetection&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/h4xryu/FaceDetection)
-[![SerialCommunication](https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=SerialCommunication&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/h4xryu/SerialCommunication)
 [![Rendering](https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=Rendering&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/h4xryu/Rendering)
 [![AVR_Linux_Compiler](https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=AVR_Linux_Compiler&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/h4xryu/AVR_Linux_Compiler)
-[![ecg-yolo-dataset](https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=ecg-yolo-dataset&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/h4xryu/ecg-yolo-dataset)
 
 
 <p align="left">
