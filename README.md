@@ -38,7 +38,8 @@
 
 <!-- About Section -->
  # About me
- Majoring in Infomation & Communication Engr.
+ Majored in Infomation & Communication Engr.
+ Currently I'm in master's course of Computer Science 
  
 <p>
  
