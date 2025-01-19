@@ -9,15 +9,9 @@
         </samp>
 </h3>
 
+![View](https://komarev.com/ghpvc/?username=h4xryu&color=grey)
 
 
-<!-- About Section -->
- # About me
- Majored in Infomation & Communication Engr.
- Currently I'm in master's course of Computer Science 
- 
-<p>
- 
 
 </p>
 
