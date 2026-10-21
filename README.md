@@ -25,7 +25,6 @@
 ![C](https://img.shields.io/badge/C-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc)
 ![C++QT](https://img.shields.io/badge/C++QT-6EA94B?style=for-the-badge&labelColor=black&logo=qt&logoColor=6EA94B)
 ![Java](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=F0DB4F)
-![Arduino](https://img.shields.io/badge/Arduino-20232A?style=for-the-badge&logo=arduino&logoColor=61DAFB)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E34F26?style=for-the-badge&logo=Ubuntu&logoColor=white)
@@ -37,19 +36,33 @@
 
 ## Featured Project
 
-### [ECG-Realtime-monitor](https://github.com/h4xryu/ECG-Realtime-monitor) — On-device real-time arrhythmia classification on Android
+### 🫀 [ECG-Realtime-monitor](https://github.com/h4xryu/ECG-Realtime-monitor) — On-device real-time arrhythmia classification on Android
 
-<p align="center">
-  <img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/monitor_calibrated.png" width="49%" alt="Real-time monitor"/>
-  <img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/strip_report.png" width="49%" alt="Strip-view PDF report"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/portfolio/01_personalize_calibration.png" alt="1-minute personalization"/></td>
+    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/portfolio/02_personalize_history.png" alt="Personalization applied"/></td>
+    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/portfolio/03_monitor_classification.png" alt="Real-time classification"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>① 1-min label-free calibration</sub></td>
+    <td align="center"><sub>② Patient vector applied</sub></td>
+    <td align="center"><sub>③ Beat-level 5-class result</sub></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/portfolio/04_strip_report.png" width="80%" alt="Strip-view PDF report"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><sub>④ Exported clinical strip-view PDF report (25 mm/s)</sub></td>
+  </tr>
+</table>
 
 A wearable ECG patch (single-lead, 250 Hz) streams over BLE to an Android phone, which classifies every heartbeat on-device in real time — no server round-trip.
 On-device implementation of my master's thesis (Yonsei Univ. ISPLAB, Feb 2027).
 
 **What I did**
 - Lightweighted ResUMamba [Heo et al.] into ResDSUMamba (depthwise-separable conv) and exported it with ExecuTorch + XNNPACK
-- Built the full Android pipeline: BLE frame parsing → filtering / lead-off detection → R-peak alignment → beat classification → clinical display (20 mm/mV · 25 mm/s)
+- Built the full Android pipeline: BLE frame parsing → filtering / lead-off detection → R-peak alignment → beat classification → clinical-calibrated display (true mV · 25 mm/s)
 - Added label-free patient personalization: a 60 s calibration record is encoded into a 256-dim patient vector (CPC) that conditions every beat
 - Continuous recording with MAT / NPZ export and a clinical strip-view PDF report
 
