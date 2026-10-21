@@ -36,7 +36,7 @@
 
 ## Featured Project
 
-### 🫀 [ECG-Realtime-monitor](https://github.com/h4xryu/ECG-Realtime-monitor) — On-device real-time arrhythmia classification on Android
+### [ECG-Realtime-monitor](https://github.com/h4xryu/ECG-Realtime-monitor) — On-device real-time arrhythmia classification on Android
 
 <table>
   <tr>
