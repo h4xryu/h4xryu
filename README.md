@@ -31,34 +31,6 @@
   </tr>
 </table>
 
-
-### [12-Lead ECG Dataset Utils](https://github.com/h4xryu/12-Lead-ECG-Dataset-Utils-For-Real-Time-Lead-Detection-Using-YOLO) — Dataset Preparation for YOLO-Based ECG Lead Detection
-
-Utilities for preparing and augmenting 12-lead ECG image datasets for YOLO-based lead detection.
-
-**Key areas**
-- ECG image dataset preparation and preprocessing
-- Data augmentation for object detection
-- Dataset utilities for real-time ECG lead detection
-
-`Python` `YOLO` `Computer Vision` `ECG`
-
-<br/>
-
-### [ECG Signal Generation Using TCWGAN-GP](https://github.com/h4xryu/ECG-Signal-Generation-Using-TCWGAN-GP) — Deep Generative Modeling for ECG Signals
-
-A deep learning project exploring ECG signal generation using TCWGAN-GP.
-
-**Key areas**
-- Generative adversarial networks for biosignals
-- ECG waveform generation
-- Deep learning for biomedical time-series data
-
-`Python` `PyTorch` `GAN` `ECG` `Time-Series`
-
-<br/>
-
-
 A wearable ECG patch (single-lead, 250 Hz) streams over BLE to an Android phone, which classifies every heartbeat on-device in real time — no server round-trip.
 On-device implementation of my master's thesis (Yonsei Univ. ISPLAB, Feb 2027).
 
@@ -87,7 +59,58 @@ Live 5-minute patch session: 59.4 ms per beat end-to-end (P95 70.3 ms), 7.9% inf
 
 <br/>
 
-## Other Projects
+### [12-Lead ECG Dataset Utils](https://github.com/h4xryu/12-Lead-ECG-Dataset-Utils-For-Real-Time-Lead-Detection-Using-YOLO) — YOLO-Based ECG Lead Detection
+
+Utilities for preparing and augmenting 12-lead ECG image datasets for YOLOv7-based lead detection.
+
+<p align="center">
+  <img
+    src="https://github.com/h4xryu/12-Lead-ECG-Dataset-Utils-For-Real-Time-Lead-Detection-Using-YOLO/raw/main/images/before1.jpeg"
+    width="48%"
+    alt="ECG lead detection before refinement"
+  />
+  <img
+    src="https://github.com/h4xryu/12-Lead-ECG-Dataset-Utils-For-Real-Time-Lead-Detection-Using-YOLO/raw/main/images/after1.jpeg"
+    width="48%"
+    alt="ECG lead detection after refinement"
+  />
+</p>
+
+<p align="center">
+  <sub>ECG lead detection results before and after bounding-box refinement.</sub>
+</p>
+
+**Key areas**
+- ECG image preprocessing and dataset preparation
+- Image augmentation with background textures, shadows, and geometric distortions
+- ROI extraction and lead-region organization
+
+`Python` `YOLOv7` `OpenCV` `Computer Vision`
+
+
+### [ECG Signal Generation Using TCWGAN-GP](https://github.com/h4xryu/ECG-Signal-Generation-Using-TCWGAN-GP) — Transformer-Based ECG Signal Generation
+
+A Transformer-based generator trained using the Wasserstein GAN with Gradient Penalty (WGAN-GP) framework.
+
+<p align="center">
+  <img
+    src="https://github.com/h4xryu/ECG-Signal-Generation-Using-TCWGAN-GP/raw/main/images/gen_example.gif"
+    width="85%"
+    alt="Generated ECG waveforms across training epochs"
+  />
+</p>
+
+<p align="center">
+  <sub>Synthetic ECG waveforms generated during training.</sub>
+</p>
+
+**Key areas**
+- Transformer encoder-based signal generation
+- WGAN-GP training framework
+- One-dimensional ECG waveform synthesis
+
+`Python` `PyTorch` `Transformer` `GAN` `ECG`
+
 
 <picture>
   <source
