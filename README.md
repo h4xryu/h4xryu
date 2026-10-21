@@ -80,6 +80,18 @@ Utilities for preparing and augmenting 12-lead ECG image datasets for YOLOv7-bas
   <sub>ECG lead detection results before and after bounding-box refinement.</sub>
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/h4xryu/12-Lead-ECG-Dataset-Utils-For-Real-Time-Lead-Detection-Using-YOLO/main/images/lead_roi_detection.gif"
+    width="85%"
+    alt="Real-Time Lead ROI Detection"
+  />
+</p>
+
+<p align="center">
+  <sub>Real-time detection and localization of ECG lead regions.</sub>
+</p>
+
 **Key areas**
 - ECG image preprocessing and dataset preparation
 - Image augmentation with background textures, shadows, and geometric distortions
