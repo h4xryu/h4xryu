@@ -31,6 +31,34 @@
   </tr>
 </table>
 
+
+### [12-Lead ECG Dataset Utils](https://github.com/h4xryu/12-Lead-ECG-Dataset-Utils-For-Real-Time-Lead-Detection-Using-YOLO) — Dataset Preparation for YOLO-Based ECG Lead Detection
+
+Utilities for preparing and augmenting 12-lead ECG image datasets for YOLO-based lead detection.
+
+**Key areas**
+- ECG image dataset preparation and preprocessing
+- Data augmentation for object detection
+- Dataset utilities for real-time ECG lead detection
+
+`Python` `YOLO` `Computer Vision` `ECG`
+
+<br/>
+
+### [ECG Signal Generation Using TCWGAN-GP](https://github.com/h4xryu/ECG-Signal-Generation-Using-TCWGAN-GP) — Deep Generative Modeling for ECG Signals
+
+A deep learning project exploring ECG signal generation using TCWGAN-GP.
+
+**Key areas**
+- Generative adversarial networks for biosignals
+- ECG waveform generation
+- Deep learning for biomedical time-series data
+
+`Python` `PyTorch` `GAN` `ECG` `Time-Series`
+
+<br/>
+
+
 A wearable ECG patch (single-lead, 250 Hz) streams over BLE to an Android phone, which classifies every heartbeat on-device in real time — no server round-trip.
 On-device implementation of my master's thesis (Yonsei Univ. ISPLAB, Feb 2027).
 
