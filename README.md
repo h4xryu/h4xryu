@@ -40,9 +40,9 @@
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/portfolio/01_personalize_calibration.png" alt="1-minute personalization"/></td>
-    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/portfolio/02_personalize_history.png" alt="Personalization applied"/></td>
-    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/portfolio/03_monitor_classification.png" alt="Real-time classification"/></td>
+    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/personalization.png" alt="1-minute personalization"/></td>
+    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/personalization_history.png" alt="Personalization applied"/></td>
+    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/monitor_calibrated.png" alt="Real-time classification"/></td>
   </tr>
   <tr>
     <td align="center"><sub>① 1-min label-free calibration</sub></td>
