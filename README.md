@@ -1,9 +1,4 @@
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://blog.naver.com/hies8875">Ryuha</a></b>
-        </samp>
-</h3>
 
 <p align="center">
   <samp>On-device AI for wearable biosignals · ECG / PPG · Android · Embedded</samp>
