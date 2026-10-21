@@ -40,8 +40,8 @@
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/personalization.png" alt="1-minute personalization"/></td>
-    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/personalization_history.png" alt="Personalization applied"/></td>
+    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/personalization.jpeg" alt="1-minute personalization"/></td>
+    <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/personalization_history.jpeg" alt="Personalization applied"/></td>
     <td align="center" width="33%"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/monitor_calibrated.png" alt="Real-time classification"/></td>
   </tr>
   <tr>
