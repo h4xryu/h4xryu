@@ -79,10 +79,50 @@ Live 5-minute patch session: 59.4 ms per beat end-to-end (P95 70.3 ms), 7.9% inf
 
 ## Other Projects
 
-[![ECG-Potassium-Estimation](https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=ECG-Potassium-Estimation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/h4xryu/ECG-Potassium-Estimation)
-[![PPG-serial-monitor](https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=PPG-serial-monitor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/h4xryu/PPG-serial-monitor)
-[![SignalPlot](https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=SignalPlot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/h4xryu/SignalPlot)
-[![Dataset-for-ECG-Paper-detection](https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=Dataset-for-12-lead-ECG-Paper-detection&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/h4xryu/Dataset-for-12-lead-ECG-Paper-detection)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=PPG-serial-monitor&theme=transparent&border_color=7F3FBF&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=PPG-serial-monitor&theme=transparent&border_color=7F3FBF&title_color=24292F&text_color=57606A&icon_color=7F3FBF"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=PPG-serial-monitor&theme=transparent&border_color=7F3FBF&title_color=24292F&text_color=57606A&icon_color=7F3FBF"
+    alt="PPG-serial-monitor"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=SignalPlot&theme=transparent&border_color=7F3FBF&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=SignalPlot&theme=transparent&border_color=7F3FBF&title_color=24292F&text_color=57606A&icon_color=7F3FBF"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=SignalPlot&theme=transparent&border_color=7F3FBF&title_color=24292F&text_color=57606A&icon_color=7F3FBF"
+    alt="SignalPlot"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=Dataset-for-12-lead-ECG-Paper-detection&theme=transparent&border_color=7F3FBF&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=Dataset-for-12-lead-ECG-Paper-detection&theme=transparent&border_color=7F3FBF&title_color=24292F&text_color=57606A&icon_color=7F3FBF"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=Dataset-for-12-lead-ECG-Paper-detection&theme=transparent&border_color=7F3FBF&title_color=24292F&text_color=57606A&icon_color=7F3FBF"
+    alt="Dataset-for-12-lead-ECG-Paper-detection"
+  />
+</picture>
 
 <p align="left">
   <a href="https://github.com/h4xryu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
