@@ -50,7 +50,7 @@
     <td align="center"><sub>③ Beat-level 5-class result</sub></td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/portfolio/04_strip_report.png" width="80%" alt="Strip-view PDF report"/></td>
+    <td colspan="3" align="center"><img src="https://github.com/h4xryu/ECG-Realtime-monitor/raw/main/docs/img/strip_report.png" width="80%" alt="Strip-view PDF report"/></td>
   </tr>
   <tr>
     <td colspan="3" align="center"><sub>④ Exported clinical strip-view PDF report (25 mm/s)</sub></td>
