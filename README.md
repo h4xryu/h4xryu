@@ -136,15 +136,77 @@ Live 5-minute patch session: 59.4 ms per beat end-to-end (P95 70.3 ms), 7.9% inf
 
 <p align="center">
   <a href="https://github.com/h4xryu">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4xryu&theme=radical" alt="Ryuha's GitHub Contribution"/>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4xryu&theme=github_dark"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4xryu&theme=github"
+      />
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4xryu&theme=github"
+        alt="Ryuha's GitHub Contribution"
+      />
+    </picture>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/h4xryu"><img alt="Ryuha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=h4xryu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/h4xryu"><img alt="Ryuha's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=h4xryu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center">
+  <a href="https://github.com/h4xryu">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=h4xryu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=00000000&title_color=F85D7F&icon_color=F8D866"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=h4xryu&show_icons=true&count_private=true&theme=default&border_color=7F3FBF&bg_color=00000000&title_color=7F3FBF&icon_color=BF8700"
+      />
+      <img
+        height="192px"
+        width="49.5%"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=h4xryu&show_icons=true&count_private=true&theme=default&border_color=7F3FBF&bg_color=00000000&title_color=7F3FBF&icon_color=BF8700"
+        alt="Ryuha's GitHub Stats"
+      />
+    </picture>
+  </a><a href="https://github.com/h4xryu">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=h4xryu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=00000000&title_color=F85D7F&icon_color=F8D866"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=h4xryu&langs_count=8&layout=compact&theme=default&border_color=7F3FBF&bg_color=00000000&title_color=7F3FBF&icon_color=BF8700"
+      />
+      <img
+        height="192px"
+        width="49.5%"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=h4xryu&langs_count=8&layout=compact&theme=default&border_color=7F3FBF&bg_color=00000000&title_color=7F3FBF&icon_color=BF8700"
+        alt="Ryuha's Top Languages"
+      />
+    </picture>
+  </a>
+</p>
 
-
-![Ryuha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=h4xryu&custom_title=Ryuha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<p align="center">
+  <a href="https://github.com/h4xryu">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=h4xryu&custom_title=Ryuha's%20GitHub%20Activity%20Graph&bg_color=00000000&color=C9D1D9&line=7F3FBF&point=F8D866&area_color=7F3FBF&title_color=FFFFFF&area=true"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=h4xryu&custom_title=Ryuha's%20GitHub%20Activity%20Graph&bg_color=00000000&color=57606A&line=7F3FBF&point=BF8700&area_color=7F3FBF&title_color=24292F&area=true"
+      />
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=h4xryu&custom_title=Ryuha's%20GitHub%20Activity%20Graph&bg_color=00000000&color=57606A&line=7F3FBF&point=BF8700&area_color=7F3FBF&title_color=24292F&area=true"
+        alt="Ryuha's GitHub Activity Graph"
+        width="100%"
+      />
+    </picture>
+  </a>
+</p>
