@@ -191,22 +191,4 @@ Live 5-minute patch session: 59.4 ms per beat end-to-end (P95 70.3 ms), 7.9% inf
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/h4xryu">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=h4xryu&custom_title=Ryuha's%20GitHub%20Activity%20Graph&bg_color=00000000&color=C9D1D9&line=7F3FBF&point=F8D866&area_color=7F3FBF&title_color=FFFFFF&area=true"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=h4xryu&custom_title=Ryuha's%20GitHub%20Activity%20Graph&bg_color=00000000&color=57606A&line=7F3FBF&point=BF8700&area_color=7F3FBF&title_color=24292F&area=true"
-      />
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=h4xryu&custom_title=Ryuha's%20GitHub%20Activity%20Graph&bg_color=00000000&color=57606A&line=7F3FBF&point=BF8700&area_color=7F3FBF&title_color=24292F&area=true"
-        alt="Ryuha's GitHub Activity Graph"
-        width="100%"
-      />
-    </picture>
-  </a>
-</p>
+
