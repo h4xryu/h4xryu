@@ -132,11 +132,7 @@ Live 5-minute patch session: 59.4 ms per beat end-to-end (P95 70.3 ms), 7.9% inf
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/h4xryu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4xryu&theme=radical&border=7F3FBF&background=0D1117" alt="Ryuha's GitHub streak"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/h4xryu">
