@@ -9,9 +9,6 @@
   <samp>On-device AI for wearable biosignals · ECG / PPG · Android · Embedded</samp>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=h4xryu&color=grey" alt="View"/>
-</p>
 
 <br/>
 
