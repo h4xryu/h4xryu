@@ -142,20 +142,6 @@ A Transformer-based generator trained using the Wasserstein GAN with Gradient Pe
   />
 </picture>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=Dataset-for-12-lead-ECG-Paper-detection&theme=transparent&border_color=7F3FBF&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=Dataset-for-12-lead-ECG-Paper-detection&theme=transparent&border_color=7F3FBF&title_color=24292F&text_color=57606A&icon_color=7F3FBF"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=h4xryu&repo=Dataset-for-12-lead-ECG-Paper-detection&theme=transparent&border_color=7F3FBF&title_color=24292F&text_color=57606A&icon_color=7F3FBF"
-    alt="Dataset-for-12-lead-ECG-Paper-detection"
-  />
-</picture>
 
 <p align="left">
   <a href="https://github.com/h4xryu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
