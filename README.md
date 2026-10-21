@@ -7,24 +7,6 @@
 
 <br/>
 
-## Use To Code & Library, IDEs
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&labelColor=black&logo=android&logoColor=34A853)
-![ExecuTorch](https://img.shields.io/badge/ExecuTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)
-![Torch](https://img.shields.io/badge/Torch-black?style=for-the-badge&logo=pytorch&logoColor=orange)
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&labelColor=&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/C-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc)
-![C++QT](https://img.shields.io/badge/C++QT-6EA94B?style=for-the-badge&labelColor=black&logo=qt&logoColor=6EA94B)
-![Java](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=F0DB4F)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Ubuntu](https://img.shields.io/badge/ubuntu-E34F26?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-50C878?style=for-the-badge&labelColor=50C878&logo=Clion&logoColor=black)
-![VSCode](https://img.shields.io/badge/Visual_Studio-black?style=for-the-badge&logo=visual%20studio&logoColor=0078d7)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
 
 ## Featured Project
 
@@ -132,7 +114,24 @@ Live 5-minute patch session: 59.4 ms per beat end-to-end (P95 70.3 ms), 7.9% inf
 <hr/>
 <br/>
 
+## Use To Code & Library, IDEs
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&labelColor=black&logo=android&logoColor=34A853)
+![ExecuTorch](https://img.shields.io/badge/ExecuTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=EE4C2C)
+![Torch](https://img.shields.io/badge/Torch-black?style=for-the-badge&logo=pytorch&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&labelColor=&logo=python&logoColor=black)
+![C](https://img.shields.io/badge/C-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc)
+![C++QT](https://img.shields.io/badge/C++QT-6EA94B?style=for-the-badge&labelColor=black&logo=qt&logoColor=6EA94B)
+![Java](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=F0DB4F)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E34F26?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-50C878?style=for-the-badge&labelColor=50C878&logo=Clion&logoColor=black)
+![VSCode](https://img.shields.io/badge/Visual_Studio-black?style=for-the-badge&logo=visual%20studio&logoColor=0078d7)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/h4xryu">
