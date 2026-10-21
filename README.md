@@ -59,7 +59,7 @@ Live 5-minute patch session: 59.4 ms per beat end-to-end (P95 70.3 ms), 7.9% inf
 
 <br/>
 
-### [12-Lead ECG Dataset Utils](https://github.com/h4xryu/12-Lead-ECG-Dataset-Utils-For-Real-Time-Lead-Detection-Using-YOLO) — YOLO-Based ECG Lead Detection
+### [12-Lead ECG Dataset Utils](https://github.com/h4xryu/12-Lead-ECG-Dataset-Utils-For-Real-Time-Lead-Detection-Using-YOLO) — For Real-Time YOLO-Based ECG Lead Detection
 
 Utilities for preparing and augmenting 12-lead ECG image datasets for YOLOv7-based lead detection.
 
